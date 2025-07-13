@@ -2,7 +2,7 @@
 A data-driven dashboard for analyzing small business financial health using SQL + Power BI
 # Financial Health Dashboard 📊
 
-This project analyzes and visualizes the financial health of small businesses by combining data on SBA loans, company financials, regional GDP, and World Bank SME finance indicators.
+This capstone project analyzes and visualizes the financial health of small businesses by combining data on SBA loans, company financials, regional GDP, and World Bank SME finance indicators.
 
 ## 🚀 Project Overview
 
@@ -69,9 +69,9 @@ Database: `financial_health`
 ## 👨‍💻 Author
 
 **Bharadwaj Duvvuru**  
-*M.S. in IT Management | Data Analyst*  
+*M.S. in IT Management | Data Analyst* 
 🔗 [LinkedIn](https://www.linkedin.com/in/bharadwaj-0934442b5/)  
-📫 Duvvurubharadwaj@email.com  
+📫 Duvvurubharadwaj@gmail.com  
 
 ---
 
